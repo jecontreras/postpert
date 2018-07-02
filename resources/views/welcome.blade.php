@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    adVenta 2.0
+                    adVenta 3.0
                 </div>
 
                 <div class="links">
